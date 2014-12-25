@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NJA", "NJA\NJA.csproj", "{B05A14F9-DCF7-4539-AE9D-D5E22FB887AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NJA.Tests", "NJA.Tests\NJA.Tests.csproj", "{A0E9673F-F0E0-4DA3-91C6-5C43D60C98DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B05A14F9-DCF7-4539-AE9D-D5E22FB887AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B05A14F9-DCF7-4539-AE9D-D5E22FB887AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B05A14F9-DCF7-4539-AE9D-D5E22FB887AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B05A14F9-DCF7-4539-AE9D-D5E22FB887AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0E9673F-F0E0-4DA3-91C6-5C43D60C98DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0E9673F-F0E0-4DA3-91C6-5C43D60C98DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0E9673F-F0E0-4DA3-91C6-5C43D60C98DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0E9673F-F0E0-4DA3-91C6-5C43D60C98DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
